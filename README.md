@@ -14,4 +14,4 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://instagram.com/nitin_ahlawat_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nitin Ahlawat" height="30" width="40" /></a>
 <br>
 
-[![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitin2927)](https://github.com/anuraghazra/github-readme-stats)
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitin2927&show_icons=true&theme=radical)
