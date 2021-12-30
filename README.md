@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Python, Go, Shell Scripting
 - 📫 &nbsp;How to reach me: [@nitinahlawat](https://twitter.com/https://twitter.com/NitinAh25103203)
-- 👨‍💻 &nbsp;Read more about my projects [here](https://nitin2927.github.io/LilPentestWritings)
+- 👨‍💻 &nbsp;Read more about my projects [here](https://nitin2927.github.io/LilPentestWritings/projects.html)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
 
 🔗 &nbsp;**Connect with me**
