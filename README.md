@@ -1,5 +1,5 @@
 ### Hi there <a href="https://nitin2927.github.io/LilPentestWritings/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
+Here I put up opensource programs and penesting tools.
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Python, Go, Shell Scripting
